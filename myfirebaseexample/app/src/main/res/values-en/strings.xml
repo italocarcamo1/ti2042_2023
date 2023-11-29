@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Barber</string>
+    <string name="id_value">Id</string>
+    <string name="service_value">service</string>
+    <string name="gender_value">Gender</string>
+    <string name="discount_value">Discount</string>
+    <string name="cost_value">Cost</string>
+    <string name="button_load">Load</string>
+    <string name="button_save">Save</string>
+    <string name="id_hint">Write the id number</string>
+    <string name="service_hint">service</string>
+    <string name="gender_hint">Gender</string>
+    <string name="discount_hint">Discount</string>
+    <string name="cost_hint">Cost</string>
+</resources>
